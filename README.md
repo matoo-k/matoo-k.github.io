@@ -1,3 +1,1 @@
-# tips.github.io
-# just learning web development
-# my first attemp building a site
+# https://github.com/matoo-k/matoo-k.github.io.git
